@@ -9,7 +9,7 @@ const todos = {
   title: 'Список дел',
   message: [
     {id: 1, text: 'Купить бананы', favorite: false },
-    {id: 2, text: 'Продать квартиру', favorite: false },
+    {id: 3, text: 'Продать квартиру', favorite: false },
     {id: 5, text: 'Выучить уроки по JavaScript', favorite: true }
   ]
 }
