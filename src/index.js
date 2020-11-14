@@ -5,6 +5,7 @@ import { Provider } from 'react-redux';
 import { createStore } from 'redux'
 
 const todos = {
+
   title: 'Список дел',
   message: [
     {id: 1, text: 'Купить бананы', favorite: false },
